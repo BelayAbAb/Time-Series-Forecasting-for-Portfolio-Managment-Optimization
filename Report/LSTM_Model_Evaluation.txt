@@ -1,0 +1,4 @@
+LSTM Model Evaluation:
+ MAE: 39.71
+ RMSE: 44.79
+ MAPE: 18.60%
